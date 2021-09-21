@@ -1,4 +1,4 @@
-# Compatido2DAM2021-2022
+# Compartido2DAM2021-2022
 
 Fichero compartido de 2DAM 2021-2022
 
