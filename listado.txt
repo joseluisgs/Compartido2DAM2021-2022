@@ -1,4 +1,21 @@
 Listado de 2 DAM
 
 - José Luis González - Rol: Profesor.
-- Daniel Rodriguez Muñoz - Rol: Alumno 2DAM
+- Daniel Rodriguez Muñoz - Rol: Alumno.
+- Alejandro Laso Salido - Rol: Alumno.
+- Javier Gonzalez Muñoz - Rol: Alumno.
+- Emilio López Novillo - Rol: Alumno.
+- Federico Sebastian Toledo Baeza - Rol: Alumno.
+- Andrea Gómez de Pablo - Rol: Alumna.
+- Laura Quintiana Muiños - Rol:Alumna.
+- Mario González Resa - Rol: Alumno.
+- Alfredo Rafael Maldonado Pertuz - Rol: Alumno.
+- Adrian Lozano Lastras -Rol: Alumno.
+- Saúl Mellado Herrera - Rol: Alumno.
+- Jhoan Sebastián Mendoza Acosta - Rol: Alumno.
+- Carlos Moreno Luengos - Rol: Alumno.
+- Eneko Rebollo Hernandez - Rol: Alumno.
+- Daniel Castellote Benito - Rol: Alumno
+- Alejandro López Abad - Rol: Alumno.
+- Ángel Mateo Rodríguez - Rol: Alumno.
+- Jaime Salcedo Vallejo - Rol: Alumno.
