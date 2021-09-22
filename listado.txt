@@ -1,6 +1,7 @@
 Listado de 2 DAM
 
 - José Luis González - Rol: Profesor.
+<<<<<<< HEAD
 - Andrea Gómez de Pablo - Rol: Alumna
 - Laura Quintiana Muiños - Rol:Alumna
 - Mario González Resa - Rol: Alumno.
@@ -14,3 +15,6 @@ Listado de 2 DAM
 - Alejandro López Abad - Rol: Estudiante.
 - Ángel Mateo Rodríguez - Rol: Alumno.
 
+=======
+- Jaime Salcedo Vallejo - Rol: Alumno.
+>>>>>>> feature/listado
