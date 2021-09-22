@@ -1,6 +1,7 @@
 Listado de 2 DAM
 
 - José Luis González - Rol: Profesor.
+- Andrea Gómez de Pablo - Rol: Alumna
 - Laura Quintiana Muiños - Rol:Alumna
 - Mario González Resa - Rol: Alumno.
 - Alfredo Rafael Maldonado Pertuz - Rol: Alumno.
