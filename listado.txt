@@ -1,6 +1,7 @@
 Listado de 2 DAM
 
 - José Luis González - Rol: Profesor.
+- Emilio López Novillo - Rol: Alumno.
 - Federico Sebastian Toledo Baeza - Rol: Alumno.
 - Andrea Gómez de Pablo - Rol: Alumna.
 - Laura Quintiana Muiños - Rol:Alumna.
@@ -15,4 +16,3 @@ Listado de 2 DAM
 - Alejandro López Abad - Rol: Alumno.
 - Ángel Mateo Rodríguez - Rol: Alumno.
 - Jaime Salcedo Vallejo - Rol: Alumno.
-
