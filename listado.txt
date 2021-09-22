@@ -1,6 +1,7 @@
 Listado de 2 DAM
 
 - José Luis González - Rol: Profesor.
+- Javier Gonzalez Muñoz - Rol: Alumno.
 - Federico Sebastian Toledo Baeza - Rol: Alumno.
 - Andrea Gómez de Pablo - Rol: Alumna.
 - Laura Quintiana Muiños - Rol:Alumna.
