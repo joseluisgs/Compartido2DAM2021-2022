@@ -12,7 +12,7 @@ Listado de 2 DAM
 - Carlos Moreno Luengos - Rol: Alumno.
 - Eneko Rebollo Hernandez - Rol: Alumno.
 - Daniel Castellote Benito - Rol: Alumno
-- Alejandro López Abad - Rol: Estudiante.
+- Alejandro López Abad - Rol: Alumno.
 - Ángel Mateo Rodríguez - Rol: Alumno.
 - Jaime Salcedo Vallejo - Rol: Alumno.
 
