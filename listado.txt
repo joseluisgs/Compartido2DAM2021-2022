@@ -2,3 +2,6 @@ Listado de 2 DAM
 
 - José Luis González - Rol: Profesor.
 - Eneko Rebollo Hernandez - Rol: Estudiante
+- Daniel Castellote Benito - Rol: Alumno
+- Alejandro López Abad - Rol: Estudiante.
+- Ángel Mateo Rodríguez - Rol: Alumno.
