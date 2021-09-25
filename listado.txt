@@ -1,6 +1,7 @@
 Listado de 2 DAM
 
 - José Luis González - Rol: Profesor.
+- Mario González Gómez - Rol: Delegado / Alumno.
 - Dylan Hurtado López - Rol: Alumno.
 - Sergio Pérez Sanz - Rol: Alumno.
 - Daniel Rodriguez Muñoz - Rol: Alumno.
